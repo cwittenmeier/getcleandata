@@ -18,7 +18,7 @@ descriptions to understand the structure of the later one.
     (This description is not contained in this README.md, but in the extensive code-comments.)      
     * **Section 2** consists of many helper-methods that do the work of combining and rearranging the initial datasets.
     If you want to know, how the steps in Section 1 are realized in detail, this is the right place to look at.
-    * **Section 3 ** is not part of the solution. It contains just some test-methods, that can be called from the 
+    * **Section 3** is not part of the solution. It contains just some test-methods, that can be called from the 
 	execute()-Method of Section 1 for verifying the results. (Some takes a long time to be executed.)    
 * **mergedataframe.txt** is the resulting dataframe of the parts 1-4 of the exercise.
 * **finalmeanframe.txt** is the resulting dataframe of the parts 5 of the exercise.
