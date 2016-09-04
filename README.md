@@ -3,14 +3,16 @@ I assume that you have the original datasets available, so i just provide the pa
  of the exercise. I quickly describe here the parts of the solution and how they are connected to each other:
 
 * **CodeBook.md** This document describes how the two resulting dataframes "mergedataframe.txt" and 
-"finalmeanframe.txt" are structured and how they can be derrived from the original datasets provided by the 
-instructors. This document can be read relative indepedently from the code and its comments in 
-**"run_analysis.R"**
+"finalmeanframe.txt" are structured and how they can be derived from the original datasets provided by the 
+instructors. This document can be read relative independently from the code and its comments in 
+**"run_analysis.R"**. ** Please note tht the Codebook describes the structure of both dataframes 
+"mergeddataframe.txt" and "finalmeandataframe.txt". You have to read both descriptions to undesrtand 
+the structure of the later one. **
 
 * **run_analysis.R** consists of three sections:
 	* **Section 1** consists of the method **execute()**. It contains all main steps, that has been 
 	executed to build the two resulting datasets **"mergedataframe.txt"** and **"finalmeanframe.txt"**.
-    This method calls other helper-methods of **Section 2** and optionally some test-Methods of **Section 3**. 
+    This method calls other helper-methods of **Section 2** and optionally some test-methods of **Section 3**. 
     **To understand, how the R-Script "run_analysis.R" works, just take a look at the code and its comments. 
     (This description is not contained in this README.md, but in the extensive code-comments. )** 
     
