@@ -5,7 +5,7 @@ I assume that you have the original datasets available, so i just provide the pa
 * **CodeBook.md** This document describes how the two resulting dataframes "mergedataframe.txt" and 
 "finalmeanframe.txt" are structured and how they can be derived from the original datasets provided by the 
 instructors. This document can be read relative independently from the code and its comments in 
-**"run_analysis.R"**. ** Please note tht the Codebook describes the structure of both dataframes 
+**"run_analysis.R"**. ** Please note that the Codebook describes the structure of both dataframes 
 "mergeddataframe.txt" and "finalmeandataframe.txt". You have to read both descriptions to undesrtand 
 the structure of the later one. **
 
